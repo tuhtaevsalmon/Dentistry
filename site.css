@@ -45642,7 +45642,11 @@ a.u-link.u-text-hover-color-var.hover {
   margin: 22px auto 0 0;
 }
 
-.u-header .u-logo-brand {
+#kontakt,
+#zapis {
+  scroll-margin-top: 90px;
+}
+
   display: inline-flex;
   align-items: center;
   gap: 12px;
