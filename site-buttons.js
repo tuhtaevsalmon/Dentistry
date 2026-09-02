@@ -44,7 +44,7 @@
     }
 
     if (/\d{3}[-\s(]?\d{3}[-\s)]?\d{3,4}/.test(text)) {
-      link.setAttribute("href", "tel:+1234567896");
+      link.setAttribute("href", "tel:+998712001234");
     }
   });
 
